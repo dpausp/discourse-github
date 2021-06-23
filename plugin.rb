@@ -6,7 +6,6 @@
 # authors: Robin Ward, Sam Saffron
 # url: https://github.com/discourse/discourse-github
 
-gem 'sawyer', '0.8.2'
 gem 'octokit', '4.21.0'
 
 # Site setting validators must be loaded before initialize
